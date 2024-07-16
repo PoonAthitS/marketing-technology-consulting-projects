@@ -22,6 +22,6 @@ This repository showcases various projects completed during my tenure with a lea
 
 ## 4. Consulting Services
 - **Analytical Problem-Solving:** Applied analytical skills to solve complex data challenges and optimize marketing strategies.
-= **Marketing Insights & Advice:** Provided valuable insights and recommendations for improving Marketing Channels, Marketing Automation, and CRM platforms.
+- **Marketing Insights & Advice:** Provided valuable insights and recommendations for improving Marketing Channels, Marketing Automation, and CRM platforms.
 
 All rights reserved © 2024. All code is developed and owned by [Poon Athit S. ](https://www.linkedin.com/in/athit-srimachand/) or the mentioned team members. If you use this code, please visit his LinkedIn profile and endorse him for his skills in data analytics and the aforementioned technologies.
